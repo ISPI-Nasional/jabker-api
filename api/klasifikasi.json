@@ -1,0 +1,42 @@
+[
+  {
+    "kode": "A",
+    "nama": "Arsitektur",
+    "jumlah_jabatan": 6
+  },
+  {
+    "kode": "B",
+    "nama": "Sipil",
+    "jumlah_jabatan": 293
+  },
+  {
+    "kode": "C",
+    "nama": "Mekanikal",
+    "jumlah_jabatan": 130
+  },
+  {
+    "kode": "D",
+    "nama": "Tata Lingkungan",
+    "jumlah_jabatan": 50
+  },
+  {
+    "kode": "E",
+    "nama": "Manajemen Pelaksanaan",
+    "jumlah_jabatan": 35
+  },
+  {
+    "kode": "F",
+    "nama": "Arsitektur Lanskap, Iluminasi dan Desain Interior",
+    "jumlah_jabatan": 29
+  },
+  {
+    "kode": "G",
+    "nama": "Perencanaan Wilayah dan Kota",
+    "jumlah_jabatan": 10
+  },
+  {
+    "kode": "H",
+    "nama": "Sains dan Rekayasa Teknik",
+    "jumlah_jabatan": 11
+  }
+]
